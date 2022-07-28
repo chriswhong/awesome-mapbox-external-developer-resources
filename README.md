@@ -1,4 +1,4 @@
-# Awesome Mapbox Developer Resources[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Mapbox External Developer Resources[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > An awesome list of third-party developer resources to help you work with the [Mapbox](https://mapbox.com/) suite of location-based services, APIs, ADKs, libraries, and data. The Geocoding API allows you to search for addresses and places by name or coordinates.The Geocoding API allows you to search for addresses and places by name or coordinates.
 
@@ -6,21 +6,23 @@ Mapbox is a location data platform that powers the maps and location services us
 
 ## Mapbox Resources
 
-### Documentation
-- [https://docs.mapbox.com/](https://docs.mapbox.com/) -  Offical Documentation for all Mapbox APIs, SDKs, and libraries. Includes tutorials, examples, and code playgrounds.
+Offical Mapbox Developer Resources are available in various places on mapbox.com
 
-### Playgrounds
-- [Static Images Playground](https://docs.mapbox.com/playground/static/) - The Static Images API produces standalone map images that can be displayed on web and mobile devices without the aid of a mapping library or API. 
-- [TileQuery Playground](https://docs.mapbox.com/playground/tilequery/) - The Tilequery API allows you to retrieve features from vector tilesets based on a given longitude and latitude.
-- [Directions Playground](https://docs.mapbox.com/playground/directions/) - The Directions API produces turn-by-turn instructions.
-- [Isochrone Playground](https://docs.mapbox.com/playground/isochrone/) - The Isochrone API allows you to request polygon or line features that show areas that are reachable within a specified amount of time from a location.
-- [Geocoding Playground](https://docs.mapbox.com/playground/geocoding/) - The Geocoding API allows you to search for addresses and places by name or coordinates.
+- [Documentation](https://docs.mapbox.com/) -  Offical Documentation for all Mapbox APIs, SDKs, and libraries. Includes tutorials, examples, and code playgrounds.
+- [Tutorials](https://docs.mapbox.com/help/tutorials/) - A list of tutorials built into the docs site, includes both video and web-based tutorials for various tasks. 
+- [How-to Videos](https://www.mapbox.com/videos/) - Short videos showing how to perform various tasks with Mapbox's libraries and SDKs.
+- [Webinars](https://www.mapbox.com/webinars) - Longer format videos including developer interviews and more substantial Mapbox builds and workflows.
+
 
 ## Third-Party Resources
 
+### StackOverflow Forums
+
+Many community members post technical questions using the `mapbox` tag on StackOverflow.  [Follow the `mapbox` tag](https://stackoverflow.com/questions/tagged/mapbox)
+
 ### Technical Blog Posts
 - [The making of Urban Layers](https://morphocode.com/making-urban-layers/) - Urban Layers is an interactive map created by Morphocode that explores Manhattan’s urban fabric. The project uses some of the latest mapping technologies to visualize more than 45 000 buildings.
-
+- [Using Mapbox: The Simplest Guide To Get You Started](https://javascript.plainenglish.io/using-mapbox-the-simplest-guide-to-get-you-started-cae9896bf999) - via javascript.plainenglish.io
 ### Tutorials
 
 ### Tutorial Videos
