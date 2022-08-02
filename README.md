@@ -41,6 +41,9 @@ Many community members post technical questions using the `mapbox` tag on StackO
 
 ### Developer Tools
 
+- [geojson.io](https://geojson.io) - Create and Edit GeoJson
+- [img2geojson](https://caseymm.github.io/img2geojson/) - Digitize Geojson by tracing an image
+
 **Related lists**
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - The Mapbox Vector Tile spec is an efficient encoding for map data into vector tiles that can be rendered dynamically.
