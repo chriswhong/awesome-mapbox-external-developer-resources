@@ -23,7 +23,10 @@ Many community members post technical questions using the `mapbox` tag on StackO
 ### Technical Blog Posts
 - [The making of Urban Layers](https://morphocode.com/making-urban-layers/) - Urban Layers is an interactive map created by Morphocode that explores Manhattan’s urban fabric. The project uses some of the latest mapping technologies to visualize more than 45 000 buildings.
 - [Using Mapbox: The Simplest Guide To Get You Started](https://javascript.plainenglish.io/using-mapbox-the-simplest-guide-to-get-you-started-cae9896bf999) - via javascript.plainenglish.io
+
 ### Tutorials
+
+- [Integrate Mapbox maps into your Noodl app](https://www.noodl.net/post/integrate-mapbox-maps-into-your-noodl-app) - noodl.net (low code platform)
 
 ### Tutorial Videos
 - [Mapbox Marker Clustering](https://www.youtube.com/watch?v=3HYvbP2pQRA) - Leigh Halliday via YouTube
