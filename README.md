@@ -49,6 +49,9 @@ Many community members post technical questions using the `mapbox` tag on StackO
 - [img2geojson](https://caseymm.github.io/img2geojson/) - Digitize Geojson by tracing an image
 - [dropchop.io](https://dropchop.io/) - a browser-based GIS powered by Mapbox.js and Turf.js
 
+### Libraries
+- [mapboxgl-legend](https://github.com/markusand/mapboxgl-legend) - Add a legend to a mapbox-gl map by parsing layer layout & paint expressions.
+
 ### Data
 
 - [http://geojson.xyz/](geojson.xyz) - A simple, open source website, CDN, and CLI utility for the fast access of GeoJSON data for web mapping examples and experiments
