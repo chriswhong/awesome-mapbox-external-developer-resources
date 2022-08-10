@@ -52,7 +52,8 @@ Many community members post technical questions using the `mapbox` tag on StackO
 
 ### Libraries
 - [mapboxgl-legend](https://github.com/markusand/mapboxgl-legend) - Add a legend to a mapbox-gl map by parsing layer layout & paint expressions.
-
+- [mapbox-gl-rain-layer](https://github.com/nagix/mapbox-gl-rain-layer) - An animated rain layer for Mapbox GL JS
+ 
 ### Data
 
 - [http://geojson.xyz/](geojson.xyz) - A simple, open source website, CDN, and CLI utility for the fast access of GeoJSON data for web mapping examples and experiments
