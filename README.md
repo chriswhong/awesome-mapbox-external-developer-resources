@@ -34,6 +34,7 @@ Many community members post technical questions using the `mapbox` tag on StackO
 - [Interactive maps in React](https://www.youtube.com/watch?v=JJatzkPcmoI) - Leigh Halliday via YouTube
 - [How to Use Mapbox with Flutter](https://www.youtube.com/watch?v=hZwrcOTxDJI&t=400s) - Merci Codes via YouTube
 - [Add your own data in Mapbox Studio](https://www.youtube.com/watch?v=ONMta8JHDG0) - Eric Brelsford via YouTube
+- [Add an event to a map using Mapbox and PHP](https://www.youtube.com/watch?v=yiqV9tDdCVc) - Cindr.org via YouTube
 
 ### Codepens
 
