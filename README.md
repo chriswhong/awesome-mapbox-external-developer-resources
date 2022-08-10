@@ -53,6 +53,7 @@ Many community members post technical questions using the `mapbox` tag on StackO
 ### Libraries
 - [mapboxgl-legend](https://github.com/markusand/mapboxgl-legend) - Add a legend to a mapbox-gl map by parsing layer layout & paint expressions.
 - [mapbox-gl-rain-layer](https://github.com/nagix/mapbox-gl-rain-layer) - An animated rain layer for Mapbox GL JS
+- [webgl-wind](https://github.com/mapbox/webgl-wind) - Add an animated wind layer to Mapbox GL JS
  
 ### Data
 
