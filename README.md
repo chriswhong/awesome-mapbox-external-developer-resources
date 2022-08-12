@@ -44,6 +44,10 @@ Many community members post technical questions using the `mapbox` tag on StackO
 - [3D map visualizations with Mapbox GL JS.](https://codepen.io/ro-ka/pen/ENoOjz)
 - [3D Marker Pylons](https://codepen.io/segheysens/pen/OJREber)
 
+### Observable Notebooks
+
+- [MapboxGL with Trains](https://observablehq.com/d/fb32bbf9ea0f2e41?collection=@rreusser/mapbox-dev-tests) - Animated 3D layer on top of MapboxGL
+
 ### Developer Tools
 
 - [geojson.io](https://geojson.io) - Create and Edit GeoJson
