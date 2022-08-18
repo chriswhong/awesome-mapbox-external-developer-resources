@@ -26,6 +26,9 @@ Many community members post technical questions using the `mapbox` tag on StackO
 - [Drive time analysis using Tableau and Mapbox Isochrone API](https://datavisual.blog/2022/07/17/drive-time-analysis-using-tableau-and-mapbox-isochrone-api/) - datavisual.blog
 - [Travel time isochrones with Mapbox](https://community.tableau.com/s/news/a0A8b00002GQgG4EAL/travel-time-isochrones-with-mapbox) - by Sarah Battersby on community.tableau.com
 
+### Ecosystem Blog Posts
+= [4 Best Mapbox Plugins for WordPress](https://wpforms.com/best-mapbox-plugins-for-wordpress/)
+
 ### Tutorials
 
 - [Integrate Mapbox maps into your Noodl app](https://www.noodl.net/post/integrate-mapbox-maps-into-your-noodl-app) - noodl.net (low code platform)
