@@ -1,6 +1,6 @@
 # Awesome Mapbox External Developer Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> An awesome list of third-party developer resources to help you work with the [Mapbox](https://mapbox.com/) suite of location-based services, APIs, ADKs, libraries, and data. The Geocoding API allows you to search for addresses and places by name or coordinates.The Geocoding API allows you to search for addresses and places by name or coordinates.
+> An awesome list of third-party developer resources to help you work with the [Mapbox](https://mapbox.com/) suite of location-based services, APIs, ADKs, libraries, and data. The Geocoding API allows you to search for addresses and places by name or coordinates.
 
 Mapbox is a location data platform that powers the maps and location services used in many popular apps. 
 
