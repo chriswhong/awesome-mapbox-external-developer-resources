@@ -52,6 +52,7 @@ Many community members post technical questions using the `mapbox` tag on StackO
 
 - [MapboxGL with Trains](https://observablehq.com/d/fb32bbf9ea0f2e41?collection=@rreusser/mapbox-dev-tests) - Animated 3D layer on top of MapboxGL
 - [Animated Mapbox Vector Fields (aka Wind Maps)](https://observablehq.com/d/0823bca15e419204) - Create a "Windy-style" map using MapboxGL
+- [Billboard Particles](https://observablehq.com/d/42abb1d319e691bf): 3D Snowfall Animation 
 
 ### Developer Tools
 
