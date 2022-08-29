@@ -68,7 +68,7 @@ Many community members post technical questions using the `mapbox` tag on StackO
  
 ### Data
 
-- [http://geojson.xyz/](geojson.xyz) - A simple, open source website, CDN, and CLI utility for the fast access of GeoJSON data for web mapping examples and experiments
+- [geojson.xyz](http://geojson.xyz/) - A simple, open source website, CDN, and CLI utility for the fast access of GeoJSON data for web mapping examples and experiments
 
 **Related lists**
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
