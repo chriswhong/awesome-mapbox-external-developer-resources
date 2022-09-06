@@ -47,6 +47,7 @@ Many community members post technical questions using the `mapbox` tag on StackO
 - [NYC Subway Map](https://codepen.io/bradleyboy/pen/Yryybq)
 - [3D map visualizations with Mapbox GL JS.](https://codepen.io/ro-ka/pen/ENoOjz)
 - [3D Marker Pylons](https://codepen.io/segheysens/pen/OJREber)
+- [Filter Labels outside of a bounding box](https://codepen.io/cguastini/pen/LYmPaMj)
 
 ### Observable Notebooks
 
