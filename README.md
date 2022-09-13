@@ -61,6 +61,7 @@ Many community members post technical questions using the `mapbox` tag on StackO
 - [geojson.io](https://geojson.io) - Create and Edit GeoJson
 - [img2geojson](https://caseymm.github.io/img2geojson/) - Digitize Geojson by tracing an image
 - [dropchop.io](https://dropchop.io/) - a browser-based GIS powered by Mapbox.js and Turf.js
+- [Mapbox Preview](https://marketplace.visualstudio.com/items?itemName=AlexanderBelokon.mapbox-preview) - A Visual Studio Code Extension that allows you to preview your stylesheet in Mapbox GL JS in real time.
 
 ### Libraries
 - [mapboxgl-legend](https://github.com/markusand/mapboxgl-legend) - Add a legend to a mapbox-gl map by parsing layer layout & paint expressions.
