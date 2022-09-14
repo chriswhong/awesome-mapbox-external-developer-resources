@@ -27,11 +27,13 @@ Many community members post technical questions using the `mapbox` tag on StackO
 - [Travel time isochrones with Mapbox](https://community.tableau.com/s/news/a0A8b00002GQgG4EAL/travel-time-isochrones-with-mapbox) - by Sarah Battersby on community.tableau.com
 
 ### Ecosystem Blog Posts
-= [4 Best Mapbox Plugins for WordPress](https://wpforms.com/best-mapbox-plugins-for-wordpress/)
+- [4 Best Mapbox Plugins for WordPress](https://wpforms.com/best-mapbox-plugins-for-wordpress/)
 
 ### Tutorials
 
 - [Integrate Mapbox maps into your Noodl app](https://www.noodl.net/post/integrate-mapbox-maps-into-your-noodl-app) - noodl.net (low code platform)
+- [Living Weather Data for Web Maps](https://commercedataservice.github.io/tutorial_mapbox_part2/) - Use bash, rasterio, GDAL, gribdoctor to
+see atmospheric rivers
 
 ### Tutorial Videos
 - [Mapbox Marker Clustering](https://www.youtube.com/watch?v=3HYvbP2pQRA) - Leigh Halliday via YouTube
