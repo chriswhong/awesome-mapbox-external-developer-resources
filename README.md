@@ -34,6 +34,8 @@ Many community members post technical questions using the `mapbox` tag on StackO
 - [Integrate Mapbox maps into your Noodl app](https://www.noodl.net/post/integrate-mapbox-maps-into-your-noodl-app) - noodl.net (low code platform)
 - [Living Weather Data for Web Maps](https://commercedataservice.github.io/tutorial_mapbox_part2/) - Use bash, rasterio, GDAL, gribdoctor to
 see atmospheric rivers
+- [How to Build a Rideshare Site with React.JS (Ola Cabs Clone)](https://www.cometchat.com/tutorials/react-js-ola-cabs-clone?utm_campaign=FY2022%20Content%20-%20Tech%20Tutorials&utm_content=221923195&utm_medium=social&utm_source=twitter&hss_channel=tw-49931247)
+- [SODA to Mapbox - open data to an application near you](https://www.maptical.app/soda-to-mapbox/) - Combine Open Data from a Socrata Data Portal with Mapbox
 
 ### Tutorial Videos
 - [Mapbox Marker Clustering](https://www.youtube.com/watch?v=3HYvbP2pQRA) - Leigh Halliday via YouTube
