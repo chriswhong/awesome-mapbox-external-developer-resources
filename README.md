@@ -44,6 +44,7 @@ see atmospheric rivers
 - [How to Use Mapbox with Flutter](https://www.youtube.com/watch?v=hZwrcOTxDJI&t=400s) - Merci Codes via YouTube
 - [Add your own data in Mapbox Studio](https://www.youtube.com/watch?v=ONMta8JHDG0) - Eric Brelsford via YouTube
 - [Add an event to a map using Mapbox and PHP](https://www.youtube.com/watch?v=yiqV9tDdCVc) - Cindr.org via YouTube
+- [Building a store locator in React using Algolia, Mapbox and Twilio](https://www.youtube.com/watch?v=KRzrHu_XVVY&list=PLuHdbqhRgWHKqyXbmk-QTVST-tZ1D0fMS) - Algolia via YouTube
 
 ### Codepens
 
