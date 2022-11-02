@@ -75,6 +75,9 @@ see atmospheric rivers
 - [webgl-wind](https://github.com/mapbox/webgl-wind) - Add an animated wind layer to Mapbox GL JS
 - [mapbox-gl-animated-popup](https://nagix.github.io/mapbox-gl-animated-popup/) - Animated popups for Mapbox GL Maps
  
+### R
+- [MapboxAPI](https://walker-data.com/mapboxapi/) - mapboxapi is an R package that interfaces with Mapbox web services APIs. Its purpose is to help R users incorporate the suite of Mapbox tools into their spatial data science projects.
+ 
 ### Data
 
 - [geojson.xyz](http://geojson.xyz/) - A simple, open source website, CDN, and CLI utility for the fast access of GeoJSON data for web mapping examples and experiments
