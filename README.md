@@ -27,6 +27,7 @@ Many community members post technical questions using the `mapbox` tag on StackO
 - [Travel time isochrones with Mapbox](https://community.tableau.com/s/news/a0A8b00002GQgG4EAL/travel-time-isochrones-with-mapbox) - by Sarah Battersby on community.tableau.com
 - [Your Next Tileset Inspiration for Mapbox](https://www.maptical.app/sourcing-tilesets/) - by Maptical, a review of available Mapbox tilesets and how to use them.
 - [Animate Point Along an Arc in MapBox](https://dev.to/joashxu/animate-point-along-an-arc-in-mapbox-472k) - by Joash Xu
+- [How to show only a single imagery and terrain map tile at a given pair of coordinates and zoom level](https://darrenwiens.github.io/mapbox-single-tile.html) - by Darren Wiens
 
 ### Ecosystem Blog Posts
 - [4 Best Mapbox Plugins for WordPress](https://wpforms.com/best-mapbox-plugins-for-wordpress/)
