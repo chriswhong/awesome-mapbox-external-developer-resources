@@ -57,6 +57,7 @@ see atmospheric rivers
 - [3D Marker Pylons](https://codepen.io/segheysens/pen/OJREber)
 - [Filter Labels outside of a bounding box](https://codepen.io/cguastini/pen/LYmPaMj)
 - [Get MapboxGL Camera Position on Move](https://codepen.io/chriswhong/pen/RwyazBm)
+- [Mapbox GL Legend based on Layers](https://codepen.io/chriswhong/pen/YzvOMxL)
 
 ### Observable Notebooks
 
