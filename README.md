@@ -29,6 +29,7 @@ Many community members post technical questions using the `mapbox` tag on StackO
 - [Animate Point Along an Arc in MapBox](https://dev.to/joashxu/animate-point-along-an-arc-in-mapbox-472k) - by Joash Xu
 - [How to show only a single imagery and terrain map tile at a given pair of coordinates and zoom level](https://darrenwiens.github.io/mapbox-single-tile.html) - by Darren Wiens
 - [Using Mapbox to Make Better Maps in Tableau](https://interworks.com/blog/2022/12/06/using-mapbox-to-make-better-maps-in-tableau/) - by John McKenzie via Interworks
+- [Add a legend to Mapbox GL](https://medium.com/@lindaliuAus/add-legend-to-mapbox-gl-map-a3b2cecd445f) - by Linda Liu
 
 ### Ecosystem Blog Posts
 - [4 Best Mapbox Plugins for WordPress](https://wpforms.com/best-mapbox-plugins-for-wordpress/)
