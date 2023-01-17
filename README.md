@@ -66,6 +66,7 @@ see atmospheric rivers
 - [MapboxGL with Trains](https://observablehq.com/d/fb32bbf9ea0f2e41?collection=@rreusser/mapbox-dev-tests) - Animated 3D layer on top of MapboxGL
 - [Animated Mapbox Vector Fields (aka Wind Maps)](https://observablehq.com/d/0823bca15e419204) - Create a "Windy-style" map using MapboxGL
 - [Billboard Particles](https://observablehq.com/d/42abb1d319e691bf): 3D Snowfall Animation 
+- [Visualizing wind turbines in 3D using threebox](https://observablehq.com/@chrispahm/visualizing-wind-turbines-in-3d-using-threebox) - Show the visual impact of a wind turbine project on an interactive map (uses threejs and mapboxgl-js)
 
 ### Developer Tools
 
