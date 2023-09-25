@@ -1,15 +1,15 @@
 # Awesome Mapbox External Developer Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> An awesome list of third-party developer resources to help you work with the [Mapbox](https://mapbox.com/) suite of location-based services, APIs, ADKs, libraries, and data. 
+> An awesome list of third-party developer resources to help you work with the [Mapbox](https://mapbox.com/) suite of location-based services, APIs, ADKs, libraries, and data.
 
-Mapbox is a location data platform that powers the maps and location services used in many popular apps. 
+Mapbox is a location data platform that powers the maps and location services used in many popular apps.
 
 ## Mapbox Resources
 
 Offical Mapbox Developer Resources are available in various places on mapbox.com
 
 - [Documentation](https://docs.mapbox.com/) -  Offical Documentation for all Mapbox APIs, SDKs, and libraries. Includes tutorials, examples, and code playgrounds.
-- [Tutorials](https://docs.mapbox.com/help/tutorials/) - A list of tutorials built into the docs site, includes both video and web-based tutorials for various tasks. 
+- [Tutorials](https://docs.mapbox.com/help/tutorials/) - A list of tutorials built into the docs site, includes both video and web-based tutorials for various tasks.
 - [How-to Videos](https://www.mapbox.com/videos/) - Short videos showing how to perform various tasks with Mapbox's libraries and SDKs.
 - [Webinars](https://www.mapbox.com/webinars) - Longer format videos including developer interviews and more substantial Mapbox builds and workflows.
 
@@ -30,6 +30,15 @@ Many community members post technical questions using the `mapbox` tag on StackO
 - [How to show only a single imagery and terrain map tile at a given pair of coordinates and zoom level](https://darrenwiens.github.io/mapbox-single-tile.html) - by Darren Wiens
 - [Using Mapbox to Make Better Maps in Tableau](https://interworks.com/blog/2022/12/06/using-mapbox-to-make-better-maps-in-tableau/) - by John McKenzie via Interworks
 - [Add a legend to Mapbox GL](https://medium.com/@lindaliuAus/add-legend-to-mapbox-gl-map-a3b2cecd445f) - by Linda Liu
+- Mapbox and React Deep Dives Series by Ben Tyler
+    - [Introduction to Mapbox and React](https://www.lostcreekdesigns.co/writing/introduction-to-mapbox-and-react)
+    - [Mapbox Styles Cheatsheet](https://www.lostcreekdesigns.co/writing/mapbox-styles-cheatsheet)
+    - [Building a Custom Map in Mapbox Studio](https://www.lostcreekdesigns.co/writing/mapbox-studio-creating-an-avalanche-atlas)
+    - [Tilesets & Datasets: Managing Data in Mapbox Studio](https://www.lostcreekdesigns.co/writing/tilesets-and-datasets-managing-data-in-mapbox-studio)
+    - [A Complete Guide to Sources and Layers in React and Mapbox GL JS](https://www.lostcreekdesigns.co/writing/a-complete-guide-to-sources-and-layers-in-react-and-mapbox-gl-js)
+    - [How to Style Map Layers in Mapbox GL JS](https://www.lostcreekdesigns.co/writing/how-to-style-map-layers-in-mapbox-gl-js)
+    - [How to Create a Map Popup Component Using Mapbox and React](https://www.lostcreekdesigns.co/writing/how-to-create-a-map-popup-component-using-mapbox-and-react)
+    - [An Overview of the Mapbox Standard Style](https://www.lostcreekdesigns.co/writing/an-overview-of-the-mapbox-standard-style)
 
 ### Ecosystem Blog Posts
 - [4 Best Mapbox Plugins for WordPress](https://wpforms.com/best-mapbox-plugins-for-wordpress/)
@@ -38,7 +47,7 @@ Many community members post technical questions using the `mapbox` tag on StackO
 
 - [Integrate Mapbox maps into your Noodl app](https://www.noodl.net/post/integrate-mapbox-maps-into-your-noodl-app) - noodl.net (low code platform)
 - [Living Weather Data for Web Maps](https://commercedataservice.github.io/tutorial_mapbox_part2/) - Use bash, rasterio, GDAL, gribdoctor to
-see atmospheric rivers
+  see atmospheric rivers
 - [How to Build a Rideshare Site with React.JS (Ola Cabs Clone)](https://www.cometchat.com/tutorials/react-js-ola-cabs-clone?utm_campaign=FY2022%20Content%20-%20Tech%20Tutorials&utm_content=221923195&utm_medium=social&utm_source=twitter&hss_channel=tw-49931247)
 - [SODA to Mapbox - open data to an application near you](https://www.maptical.app/soda-to-mapbox/) - Combine Open Data from a Socrata Data Portal with Mapbox
 
@@ -65,7 +74,7 @@ see atmospheric rivers
 
 - [MapboxGL with Trains](https://observablehq.com/d/fb32bbf9ea0f2e41?collection=@rreusser/mapbox-dev-tests) - Animated 3D layer on top of MapboxGL
 - [Animated Mapbox Vector Fields (aka Wind Maps)](https://observablehq.com/d/0823bca15e419204) - Create a "Windy-style" map using MapboxGL
-- [Billboard Particles](https://observablehq.com/d/42abb1d319e691bf): 3D Snowfall Animation 
+- [Billboard Particles](https://observablehq.com/d/42abb1d319e691bf): 3D Snowfall Animation
 - [Visualizing wind turbines in 3D using threebox](https://observablehq.com/@chrispahm/visualizing-wind-turbines-in-3d-using-threebox) - Show the visual impact of a wind turbine project on an interactive map (uses threejs and mapboxgl-js)
 
 ### Developer Tools
@@ -80,10 +89,10 @@ see atmospheric rivers
 - [mapbox-gl-rain-layer](https://github.com/nagix/mapbox-gl-rain-layer) - An animated rain layer for Mapbox GL JS
 - [webgl-wind](https://github.com/mapbox/webgl-wind) - Add an animated wind layer to Mapbox GL JS
 - [mapbox-gl-animated-popup](https://nagix.github.io/mapbox-gl-animated-popup/) - Animated popups for Mapbox GL Maps
- 
+
 ### R
 - [MapboxAPI](https://walker-data.com/mapboxapi/) - mapboxapi is an R package that interfaces with Mapbox web services APIs. Its purpose is to help R users incorporate the suite of Mapbox tools into their spatial data science projects.
- 
+
 ### Data
 
 - [geojson.xyz](http://geojson.xyz/) - A simple, open source website, CDN, and CLI utility for the fast access of GeoJSON data for web mapping examples and experiments
