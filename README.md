@@ -30,6 +30,7 @@ Many community members post technical questions using the `mapbox` tag on StackO
 - [How to show only a single imagery and terrain map tile at a given pair of coordinates and zoom level](https://darrenwiens.github.io/mapbox-single-tile.html) - by Darren Wiens
 - [Using Mapbox to Make Better Maps in Tableau](https://interworks.com/blog/2022/12/06/using-mapbox-to-make-better-maps-in-tableau/) - by John McKenzie via Interworks
 - [Add a legend to Mapbox GL](https://medium.com/@lindaliuAus/add-legend-to-mapbox-gl-map-a3b2cecd445f) - by Linda Liu
+- [Integrating Google Photorealistic 3D Tiles with Mapbox](https://docs.nomoko.world/using-google-photorealistic-3d-tiles-api) - by nomoko.world
 - Mapbox and React Deep Dives Series by Ben Tyler
     - [Introduction to Mapbox and React](https://www.lostcreekdesigns.co/writing/introduction-to-mapbox-and-react)
     - [Mapbox Styles Cheatsheet](https://www.lostcreekdesigns.co/writing/mapbox-styles-cheatsheet)
@@ -39,7 +40,7 @@ Many community members post technical questions using the `mapbox` tag on StackO
     - [How to Style Map Layers in Mapbox GL JS](https://www.lostcreekdesigns.co/writing/how-to-style-map-layers-in-mapbox-gl-js)
     - [How to Create a Map Popup Component Using Mapbox and React](https://www.lostcreekdesigns.co/writing/how-to-create-a-map-popup-component-using-mapbox-and-react)
     - [An Overview of the Mapbox Standard Style](https://www.lostcreekdesigns.co/writing/an-overview-of-the-mapbox-standard-style)
-    - [Integrating Google Photorealistic 3D Tiles with Mapbox](https://docs.nomoko.world/using-google-photorealistic-3d-tiles-api)
+
 
 ### Ecosystem Blog Posts
 - [4 Best Mapbox Plugins for WordPress](https://wpforms.com/best-mapbox-plugins-for-wordpress/)
