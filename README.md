@@ -39,6 +39,7 @@ Many community members post technical questions using the `mapbox` tag on StackO
     - [How to Style Map Layers in Mapbox GL JS](https://www.lostcreekdesigns.co/writing/how-to-style-map-layers-in-mapbox-gl-js)
     - [How to Create a Map Popup Component Using Mapbox and React](https://www.lostcreekdesigns.co/writing/how-to-create-a-map-popup-component-using-mapbox-and-react)
     - [An Overview of the Mapbox Standard Style](https://www.lostcreekdesigns.co/writing/an-overview-of-the-mapbox-standard-style)
+    - [Integrating Google Photorealistic 3D Tiles with Mapbox](https://docs.nomoko.world/using-google-photorealistic-3d-tiles-api)
 
 ### Ecosystem Blog Posts
 - [4 Best Mapbox Plugins for WordPress](https://wpforms.com/best-mapbox-plugins-for-wordpress/)
